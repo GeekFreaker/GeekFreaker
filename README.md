@@ -1,5 +1,4 @@
-### Hi there 😄
-## I'm Gabz 
+<a href="https://app.daily.dev/Gabz101"><img src="https://api.daily.dev/devcards/26ac8957e32047e3867ee4351bad5254.png?r=bho" width="400" alt="Gabriel Matabane's Dev Card"/></a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LickLyryk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2LickLyryk&screen_name=LickLyryk)
 
