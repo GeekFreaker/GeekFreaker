@@ -12,14 +12,14 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/LickLyryk#gh-dark-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/LickLyryk#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/LickLyryk)
+[![website](./img/twitter-dark.svg)](https://twitter.com/LickLyryk)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/leextremist/#gh-dark-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/leextremist/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/leextremist/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/leextremist/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/gabriel.matabane/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/gabriel.matabane/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/gabriel.matabane/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/gabriel.matabane/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
