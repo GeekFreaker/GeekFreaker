@@ -2,7 +2,7 @@
 # I'm Gabz 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow]()
+[![Twitter Follow]( https://twitter.com/LickLyryk)
 
 
 ## I'm a Software Developer by trade.
