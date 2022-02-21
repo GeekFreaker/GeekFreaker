@@ -1,4 +1,9 @@
+<div style="float: right;">
 <a href="https://app.daily.dev/Gabz101"><img src="https://api.daily.dev/devcards/26ac8957e32047e3867ee4351bad5254.png?r=bho" width="400" alt="Gabriel Matabane's Dev Card"/></a>
+
+</div>
+
+<div style="float: left;"></div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LickLyryk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2LickLyryk&screen_name=LickLyryk)
 
@@ -25,6 +30,12 @@
 <br />
 <br />
 
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=geekfreaker&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/LickLyryk
 [instagram]: https://www.instagram.com/gabriel.matabane/
@@ -32,6 +43,8 @@
 
 
 <!--
+
+
 **GeekFreaker/GeekFreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
